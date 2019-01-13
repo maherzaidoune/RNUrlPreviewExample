@@ -5,7 +5,7 @@ export default class App extends Component<Props> {
   render() {
     return (
       <View style={styles.container}>
-        <RNUrlPreview text={"https://www.youtube.com/watch?v=Kmiw4FYTg2U"} />
+        <RNUrlPreview text={"Myrath dance https://www.youtube.com/watch?v=b2rKORvyOcM"} />
       </View>
     );
   }
