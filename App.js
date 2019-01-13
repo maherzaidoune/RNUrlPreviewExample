@@ -5,7 +5,7 @@ export default class App extends Component<Props> {
   render() {
     return (
       <View style={styles.container}>
-        <RNUrlPreview text={"Myrath dance https://www.youtube.com/watch?v=b2rKORvyOcM"} />
+        <RNUrlPreview text={"Myrath dance https://medium.com/s/user-friendly/emulation-is-not-a-product-strategy-cfecdbffce96"} />
       </View>
     );
   }
