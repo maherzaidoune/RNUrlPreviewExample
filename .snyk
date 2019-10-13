@@ -1148,6 +1148,48 @@ patch:
         patched: '2019-10-13T10:09:21.102Z'
     - react-native > metro > @babel/plugin-transform-exponentiation-operator > @babel/helper-builder-binary-assignment-operator-visitor > @babel/helper-explode-assignable-expression > @babel/traverse > @babel/helper-function-name > @babel/template > @babel/types > lodash:
         patched: '2019-10-13T10:09:21.102Z'
+    - snyk > @snyk/snyk-cocoapods-plugin > @snyk/dep-graph > graphlib > lodash:
+        patched: '2019-10-13T10:10:34.036Z'
+    - snyk > @snyk/dep-graph > lodash:
+        patched: '2019-10-13T10:10:34.036Z'
+    - snyk > snyk-nodejs-lockfile-parser > graphlib > lodash:
+        patched: '2019-10-13T10:10:34.036Z'
+    - react-native > @react-native-community/cli > inquirer > lodash:
+        patched: '2019-10-13T10:10:34.036Z'
+    - snyk > @snyk/snyk-cocoapods-plugin > @snyk/dep-graph > lodash:
+        patched: '2019-10-13T10:10:34.036Z'
+    - snyk > snyk-nuget-plugin > dotnet-deps-parser > lodash:
+        patched: '2019-10-13T10:10:34.036Z'
+    - react-native > @react-native-community/cli > @react-native-community/cli-tools > lodash:
+        patched: '2019-10-13T10:10:34.036Z'
+    - snyk > snyk-go-plugin > graphlib > lodash:
+        patched: '2019-10-13T10:10:34.036Z'
+    - snyk > @snyk/dep-graph > graphlib > lodash:
+        patched: '2019-10-13T10:10:34.036Z'
+    - react-native > @react-native-community/cli > @react-native-community/cli-platform-ios > @react-native-community/cli-tools > lodash:
+        patched: '2019-10-13T10:10:34.036Z'
+    - react-native > @react-native-community/cli > lodash:
+        patched: '2019-10-13T10:10:34.036Z'
+    - snyk > @snyk/snyk-cocoapods-plugin > @snyk/cocoapods-lockfile-parser > @snyk/dep-graph > lodash:
+        patched: '2019-10-13T10:10:34.036Z'
+    - react-native > @react-native-community/cli > metro > async > lodash:
+        patched: '2019-10-13T10:10:34.036Z'
+    - snyk > @snyk/snyk-cocoapods-plugin > @snyk/cocoapods-lockfile-parser > @snyk/dep-graph > graphlib > lodash:
+        patched: '2019-10-13T10:10:34.036Z'
+    - react-native > metro-react-native-babel-transformer > metro-react-native-babel-preset > react-transform-hmr > react-proxy > lodash:
+        patched: '2019-10-13T10:10:34.036Z'
+    - react-native > @react-native-community/cli > metro > react-transform-hmr > react-proxy > lodash:
+        patched: '2019-10-13T10:10:34.036Z'
+    - react-native > @react-native-community/cli > metro-config > metro > async > lodash:
+        patched: '2019-10-13T10:10:34.036Z'
+    - react-native > @react-native-community/cli > metro > metro-react-native-babel-preset > react-transform-hmr > react-proxy > lodash:
+        patched: '2019-10-13T10:10:34.036Z'
+    - react-native > @react-native-community/cli > metro-config > metro > react-transform-hmr > react-proxy > lodash:
+        patched: '2019-10-13T10:10:34.036Z'
+    - react-native > @react-native-community/cli > metro-react-native-babel-transformer > metro-react-native-babel-preset > react-transform-hmr > react-proxy > lodash:
+        patched: '2019-10-13T10:10:34.036Z'
+    - react-native > @react-native-community/cli > metro-config > metro > metro-react-native-babel-preset > react-transform-hmr > react-proxy > lodash:
+        patched: '2019-10-13T10:10:34.036Z'
   'npm:lodash:20180130':
     - react-native > plist > xmlbuilder > lodash:
         patched: '2019-10-13T10:09:21.102Z'
