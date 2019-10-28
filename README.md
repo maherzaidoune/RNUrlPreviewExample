@@ -8,7 +8,7 @@ react-native-url-preview demo
    npm install watchman
 ```
 
-## Dependencies instal
+## Dependencies installation
 As a non root user, run the following:
 
 ```
