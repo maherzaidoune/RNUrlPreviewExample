@@ -28,5 +28,6 @@ In order to run this in iOS simulator (limited to Mac OS) you should run the fol
 In order to run this in android simulator you should run the following command:
 
 ```
+  export JAVA_HOME=/Applications/Android\ Studio.app/Contents/jre/jdk/Contents/Home # use embedded JDK instead of system one
   react-native run-android
 ```
