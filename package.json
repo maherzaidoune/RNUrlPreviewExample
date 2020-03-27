@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "react": "16.4.1",
-    "react-native": "^0.60.0",
+    "react-native": "^0.62.0",
     "react-native-url-preview": "^1.1.4",
     "snyk": "^1.235.1"
   },
