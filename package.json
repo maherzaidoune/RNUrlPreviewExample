@@ -11,7 +11,7 @@
   "dependencies": {
     "react": "16.4.1",
     "react-native": "^0.60.0",
-    "react-native-url-preview": "^1.1.6",
+    "react-native-url-preview": "^1.1.9",
     "snyk": "^1.305.1"
   },
   "devDependencies": {
